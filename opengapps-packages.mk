@@ -185,7 +185,6 @@ ifneq ($(filter super,$(TARGET_GAPPS_VARIANT)),)
 GAPPS_PRODUCT_PACKAGES += \
     Wallet \
     DMAgent \
-    CarrierServices \
     GoogleEarth \
     GCS \
     GoogleHindiIME \
