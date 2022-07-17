@@ -190,7 +190,6 @@ GAPPS_PRODUCT_PACKAGES += \
     GoogleJapaneseInput \
     KoreanIME \
     GooglePinyinIME \
-    Tycho \
     Street \
     TranslatePrebuilt \
     GoogleZhuyinIME
